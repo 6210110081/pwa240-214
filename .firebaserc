@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "PWA240-420",
+    "deploy": "PWA240-420",
+    "pwa": "pwa240-214"
+  },
+  "targets": {},
+  "etags": {}
+}
