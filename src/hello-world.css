@@ -16,3 +16,23 @@ body {
 h1.vertical-container {
   font-size: 275%;
 }
+
+#tiles-board {
+  height: calc(100vh - 48px);
+  width: 100vw;
+  padding: 2%;
+  margin: auto;
+  background: white;
+  cursor: pointer;
+}
+
+#count {
+  font-size: 12vmin;
+}
+
+.center-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
